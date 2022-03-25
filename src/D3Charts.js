@@ -748,4 +748,11 @@ function render_doughnut_chart (
 }
 
 
-export {render_vertical_bar_chart, render_horizontal_bar_chart, render_line_chart, render_area_chart, render_pie_chart, render_doughnut_chart}
+export {
+    render_vertical_bar_chart, 
+    render_horizontal_bar_chart, 
+    render_line_chart, 
+    render_area_chart, 
+    render_pie_chart, 
+    render_doughnut_chart
+}
