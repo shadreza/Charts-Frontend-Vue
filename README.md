@@ -28,7 +28,7 @@ The backend is gonna be live soon!
 		-  Show/hide the axis names, lebels, values, etc
 
 <br><br>
-_Special courtesy to Arifur Rahman Rabbi Vai [ \[KronoFaze\]](https://github.com/KronoFaze) took care of the backend_
+_Special courtesy to Arifur Rahman Rabbi Vai [ \[arifurrahmanrabbi\]](https://github.com/arifurrahmanrabbi) took care of the backend_
 
 _I, Shad Reza [ \[shadreza\]](https://github.com/shadreza) handled the frontend_ 
 
