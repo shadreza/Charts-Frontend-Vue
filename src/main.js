@@ -67,7 +67,7 @@ const store = createStore({
             defaultPropertiesForChart   : defaultPropertiesForChart,
             currentPropertiesForChart   : currentPropertiesForChart,
             makeTheXElementsUnique      : false,
-            baseUrl                     : 'https://d3js-charts.herokuapp.com/api/',
+            baseUrl                     : 'https://d3-vue-charts-backend.vercel.app/api/',
             // baseUrl                     : 'https://c7e2-103-109-237-157.ngrok.io/api/',
         }
     },
